@@ -1,6 +1,6 @@
 # Data-Science-Interviews
 
-## Machine Learning     
+## Machine Learning & Linear Regression          
 
 - [Overfitting vs. Underfitting  Bias vs. Variance](https://github.com/weiweisf/Data-Science-Interviews/blob/master/machine-learning/Overfitting%20vs.%20Underfitting%20bias%20vs.%20variance.pdf)       
 - [SVD vs. PCA](https://github.com/weiweisf/Data-Science-Interviews/blob/master/machine-learning/PCA%20SVD.pdf)     
